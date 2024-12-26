@@ -1,6 +1,6 @@
 int test_func(int a)
 {
-    return a + 2;
+    return a + 3;
 }
 
 int main(void)
